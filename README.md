@@ -14,11 +14,12 @@ Perfil Administrador General
     ● Administración de usuarios (Administrador General y Responsable de Sede)
 
 Perfil Responsable de Sede
-    ● Acceso a información de usuarios habilitados para compra de tickets.
+    ● Acceso a información de usuarios habilitados para compra de tickets
     ● Acceso a información de las compra de tickets de su sede.
     ● Acceso a información de registro de pagos realizados en la sede del comedor que administra.
     ● Administración del buzón virtual de sugerencias generales o destinadas a su sede
-    Perfil Usuario
+
+Perfil Usuario
     ● Autenticación de usuario para acceder a sus funcionalidades.
     ● Actualización de datos del perfil
     ● Compra de tickets y pago
